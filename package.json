@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dremicio.github.io/goit-js-hw-11/",
+  "homepage": "https://Santiagovalb.github.io/VENTAS/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /VENTAS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://-remicio.github.io/goit-js-hw-11.git"
+    "url": "git+https://-Santiagovalb.github.io/VENTAS.git"
   },
   "keywords": [],
-  "author": "Dimitr Remicio <dimitr.darm27@gmail.com>",
+  "author": "Santiago valencia <santiagovalenciab@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dimr-Remicio/goit-js-hw-11/issues"
+    "url": "https://github.com/Santiagovalb/VENTAS/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
